@@ -1,3 +1,5 @@
-mobilenet
-shufflenet
+reading:
+Non-linear Convolution Filters for CNN-based Learning
+
+experiment:
 cvpr17-face-paper
