@@ -1,6 +1,2 @@
 reading:
-   upper bound of learning rate
-experiment:
-   classifier in Joint Registration and Representation Learning for Unconstrained Face Identification.pdf
-   set_based learning in 2017_SET_based_Learning Deep Convolutional Embeddings for Face Representation Using Joint Sample- and Set-based Supervision.pdf
-   up loss: one-shot learning in 2017_One-shot Face Recognition by Promoting Underrepresented Classes.pdf
+    TRAINING DEEP NEURAL NETWORKS ON NOISY LABELS WITH BOOTSTRAPPING
