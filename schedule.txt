@@ -1,2 +1,2 @@
 reading:
-    TRAINING DEEP NEURAL NETWORKS ON NOISY LABELS WITH BOOTSTRAPPING
+    On the Capacity of Face Representation
