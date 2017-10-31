@@ -1,2 +1,3 @@
 reading:
-    On the Capacity of Face Representation
+Grad-CAM++: Generalized Gradient-based Visual Explanations for Deep Convolutional Networks.pdf
+label embedding network:learning label representation fro soft training of deep network.pdf
