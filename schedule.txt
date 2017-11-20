@@ -1,2 +1,6 @@
 reading:
+
+Targeting Ultimate Accuracy: Face Recognition via Deep Embedding 
+deep hyperspherical learning
+Longitudinal Study of Child Face Recognition
 label embedding network:learning label representation fro soft training of deep network.pdf
