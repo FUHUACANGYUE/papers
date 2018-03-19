@@ -1,0 +1,8 @@
+depthwise convolution
+separable convolution
+
+Large Kernel Matters——
+Improve Semantic Segmentation by Global Convolutional Network Chao
+pruning and distill in github.com
+结构化稀疏  量化
+加速这块han song团队做的很多
