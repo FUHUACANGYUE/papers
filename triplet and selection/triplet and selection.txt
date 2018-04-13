@@ -1,0 +1,2 @@
+https://zhuanlan.zhihu.com/p/35560666  Triplet Network, Triplet Loss及其tensorflow实现
+https://zhuanlan.zhihu.com/p/27748177  深度学习新的采样方式和损失函数--论文笔记
