@@ -1,2 +1,4 @@
 /home/brl/github/papers/2d_recognition/cvpr2018
 /home/brl/github/papers/2d_recognition/2017-2018
+
+Deep Metric Learning with Angular Loss.pdf

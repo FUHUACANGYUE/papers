@@ -1,0 +1,6 @@
+main idea:
+1. treat long-tail identity fairly by sampling
+interesting:
+1. using statistical value(harmonic mean loss) instead of single sample value
+2. using identity mean value to increase the inter-class distance
+
