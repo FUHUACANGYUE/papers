@@ -1,4 +1,6 @@
 /home/brl/github/papers/2d_recognition/cvpr2018
 /home/brl/github/papers/2d_recognition/2017-2018
+https://zhuanlan.zhihu.com/p/23249000
 
 Deep Metric Learning with Angular Loss.pdf
+All You Need is Beyond a Good Init: Exploring Better Solution for Training Extremely Deep Convolutional Neural Networks with Orthonormality and Modulation

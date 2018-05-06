@@ -1,0 +1,6 @@
+main idea:
+  quadruplet
+  Margin-based online hard negative mining
+drawback:
+  can't believe it is better than triplet loss
+  I think margin-based can not improve the performance for batch hard
