@@ -1,0 +1,7 @@
+the reasons why it is hard to optimizing the triplet loss:
+  1. it calls for an effective sampling strategy to ensure the triplet quality and learning efficiency
+  2. it is hard to set distance margin m (but I think it is not a problem, the margin m does not effect performance)
+  3. the gradient (Eq. 3) derived for each point only takes its pair-wise relation with the second point, but fails
+to consider the interaction with the third point
+  my opinion:
+    
